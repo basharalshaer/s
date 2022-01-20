@@ -1,2 +1,2 @@
-# bashar-alshaer.com
+# bashar-alshaer
 Hello bozo
